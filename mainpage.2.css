@@ -81,12 +81,12 @@ header{
 
 }
 .card{
-    width: 250px;
+    width: 300px;
     border:2px solid black;
-    margin: 12px;
+    margin: 20px;
     background-color: black;
     display: inline-block;
-    margin: 10px 40px;
+    margin: 20px 70px;
 
 }
 .card:hover{
